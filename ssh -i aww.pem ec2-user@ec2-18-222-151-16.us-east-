@@ -1,0 +1,1 @@
+ssh -i aww.pem ec2-user@ec2-35-180-83-236.eu-west-3.compute.amazonaws.com
